@@ -144,3 +144,20 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.links{
+    width: 70%;
+    display: inline-block;
+    
+}
+
+header nav a{
+    margin: 30px;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+
+.top-img{
+    padding: 25px;
+}
